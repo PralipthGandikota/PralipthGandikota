@@ -1,6 +1,6 @@
 -👋 Hi there, I'm Pralipth Gandikota! 👋
 
-I'm a passionate 21-year-old pursuing my degree in Computer Science Engineering at Vellore Institute of Technology, Vellore. 
+I'm a passionate 22-year-old with a degree in Computer Science Engineering from Vellore Institute of Technology, Vellore. 
 My interests lie in leveraging data science and machine learning techniques across diverse domains, including healthcare applications, adaptive driver assistance systems, finance and natural language processing.
 
 # About Me
